@@ -1,0 +1,7 @@
+{
+  "name": "MyDatingJournal",
+  "description": "A smart dating journal to track matches, analyze dates, and spot red flags using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
